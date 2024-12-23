@@ -27,7 +27,7 @@
   align-items: center;
 }
 
-.triangleLeft {
+.triangleRight {
   width: 0px;
   height: 0px;
   border-style: solid;
@@ -35,7 +35,7 @@
   border-color: transparent black transparent transparent;
 }
 
-.triangleLeftRed {
+.triangleRightRed {
   width: 0px;
   height: 0px;
   border-style: solid;
@@ -43,7 +43,7 @@
   border-color: transparent darkred transparent transparent;
 }
 
-.triangleRight {
+.triangleLeft {
   width: 0px;
   height: 0px;
   border-style: solid;
@@ -51,7 +51,7 @@
   border-color: transparent transparent transparent black;
 }
 
-.triangleRightRed {
+.triangleLeftRed {
   width: 0px;
   height: 0px;
   border-style: solid;
